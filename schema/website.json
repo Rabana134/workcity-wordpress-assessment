@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://workcity.africa",
+    "name": "Workcity",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Workcity",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://workcity.africa/wp-content/uploads/logo.png"
+      }
+    },
+    "sameAs": [
+      "https://www.linkedin.com/company/workcity",
+      "https://twitter.com/workcityafrica",
+      "https://instagram.com/workcityafrica",
+      "https://facebook.com/workcityafrica"
+    ]
+  }
+  

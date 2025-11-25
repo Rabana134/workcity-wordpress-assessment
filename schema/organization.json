@@ -1,0 +1,25 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Workcity",
+    "url": "https://workcity.africa",
+    "logo": "https://workcity.africa/wp-content/uploads/logo.png",
+    "description": "Workcity provides flexible coworking spaces, private offices, virtual office services, and productivity-driven work environments across Africa.",
+    "founder": {
+      "@type": "Person",
+      "name": "John Doe"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "email": "info@workcity.com",
+      "telephone": "+234-xxx-xxx-xxxx"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/company/workcity",
+      "https://twitter.com/workcityafrica",
+      "https://instagram.com/workcityafrica",
+      "https://facebook.com/workcityafrica"
+    ]
+  }
+  
